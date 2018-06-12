@@ -1,0 +1,1 @@
+from methods.validators import inhabitant
